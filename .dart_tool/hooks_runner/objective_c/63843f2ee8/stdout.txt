@@ -1,0 +1,58 @@
+Running `(cd /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/jhonlloydval/Library/Android/sdk TMPDIR=/var/folders/nn/zd0cfr4x0855jd591sk9gq080000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.venv/bin:/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin:/Users/jhonlloydval/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand:/Users/jhonlloydval/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli:/Users/jhonlloydval/flutter/bin/:/Users/jhonlloydval/.rbenv/shims:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin:/Users/jhonlloydval/flutter/bin:/opt/homebrew/bin:/usr/local/mysql-9.2.0-macos15-arm64/bin:/Users/jhonlloydval/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts HOME=/Users/jhonlloydval /Users/jhonlloydval/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/package_config.json /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/objective_c/63843f2ee8/hook.dill --config=/Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/objective_c/63843f2ee8/input.json )`.
+INFO: 2026-05-12 00:28:30.320284: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-12 00:28:30.584426: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-12 00:28:30.606198: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-12 00:28:30.606669: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.c.o
+
+INFO: 2026-05-12 00:28:30.606948: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-12 00:28:30.607130: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.m.o
+
+INFO: 2026-05-12 00:28:30.607375: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/observer.m.o
+
+INFO: 2026-05-12 00:28:30.608141: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/ns_number.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/ns_number.m.o
+
+INFO: 2026-05-12 00:28:30.608590: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/protocol.m.o
+
+INFO: 2026-05-12 00:28:30.609006: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/jhonlloydval/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-12 00:28:30.880097: 
+INFO: 2026-05-12 00:28:30.880220: 
+INFO: 2026-05-12 00:28:30.880259: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/observer.m.o
+INFO: 2026-05-12 00:28:30.880621: 
+INFO: 2026-05-12 00:28:30.880712: 
+INFO: 2026-05-12 00:28:30.880743: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.c.o
+INFO: 2026-05-12 00:28:30.880893: 
+INFO: 2026-05-12 00:28:30.881143: 
+INFO: 2026-05-12 00:28:30.881197: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-12 00:28:30.884795: 
+INFO: 2026-05-12 00:28:30.884838: 
+INFO: 2026-05-12 00:28:30.884853: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/protocol.m.o
+
+INFO: 2026-05-12 00:28:31.209282: 
+INFO: 2026-05-12 00:28:31.209338: 
+INFO: 2026-05-12 00:28:31.209352: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/ns_number.m.o
+
+INFO: 2026-05-12 00:28:31.236373: 
+INFO: 2026-05-12 00:28:31.236432: 
+INFO: 2026-05-12 00:28:31.236447: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-12 00:28:31.238667: 
+INFO: 2026-05-12 00:28:31.238766: 
+INFO: 2026-05-12 00:28:31.238811: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.m.o
+
+INFO: 2026-05-12 00:28:31.270895: 
+INFO: 2026-05-12 00:28:31.270944: 
+INFO: 2026-05-12 00:28:31.270960: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-12 00:28:31.271416: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk -target arm64-apple-ios -mios-version-min=13 /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/include/dart_api_dl.c.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.c.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/input_stream_adapter.m.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c.m.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/observer.m.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/ns_number.m.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/protocol.m.o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/obj/src/objective_c_bindings_generated.m.o -o /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/objective_c.dylib
+
+INFO: 2026-05-12 00:28:31.522405: 
+INFO: 2026-05-12 00:28:31.522513: ld: warning: -undefined dynamic_lookup is deprecated on iOS
+
+INFO: 2026-05-12 00:28:31.522532: Generated /Users/jhonlloydval/GitHub/jhonlloydval_mobile_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/63843f2ee8/objective_c.dylib
+
