@@ -25,7 +25,7 @@
   <key>FlutterEngine</key>
   <string>425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb</string>
   <key>BuildMode</key>
-  <string>debug</string>
+  <string>release</string>
   <key>ClangVersion</key>
   <string>b'Fuchsia clang version 21.0.0git (https://llvm.googlesource.com/llvm-project 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3)'</string>
 </dict>
