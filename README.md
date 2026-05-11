@@ -665,7 +665,7 @@ You are free to fork, modify, and use this as a template for your own portfolio.
 **Lloyd** — [@jhonlloydval](https://github.com/jhonlloydval)
 
 - **GitHub:** [github.com/jhonlloydval](https://github.com/jhonlloydval)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [jhonlloydval@gmail.com](mailto:jhonlloydval@gmail.com)
 - **Portfolio:** [lloyd-portfolio.web.app](https://lloyd-portfolio.web.app)
 
 ---
