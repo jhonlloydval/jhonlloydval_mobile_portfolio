@@ -366,6 +366,78 @@ const projects = <ProjectItem>[
     ],
   ),
   ProjectItem(
+    title: 'Lloyd Interactive Portfolio',
+    subtitle: 'Personal Portfolio App · Flutter + Dart',
+    details:
+        'A polished, multi-platform personal portfolio built with Flutter — showcasing identity, projects, skills, academic background, and credentials through a dynamic 20-palette theme system, ambient animations, a pseudo-infinite project carousel, and a floating navigation bar. Runs on iOS, Android, Web, macOS, Linux, and Windows from a single codebase.',
+    tags: [
+      'Flutter',
+      'Dart',
+      'Multi-Platform',
+      'Responsive',
+      'Animations',
+      '2026',
+    ],
+    status: 'Live',
+    icon: Icons.person_outline_rounded,
+    imagePaths: [
+      'assets/images/Portfolio-1.png',
+      'assets/images/Portfolio-2.png',
+      'assets/images/Portfolio-3.png',
+      'assets/images/Portfolio-4.png',
+    ],
+    longDescription: [
+      FeatureItem(
+        'Profile Section',
+        'Identity card with name, title, bio, quick stats (projects, experience), and a one-tap introduction sheet for a full hero bio and quick links.',
+      ),
+      FeatureItem(
+        'Projects Showcase',
+        'Pseudo-infinite carousel with a synced detail panel — each project displays its title, description, tech stack tags, role, and an image gallery.',
+      ),
+      FeatureItem(
+        'Skills Gallery',
+        'Technology tags organized by category with color-coding and search-as-you-type filtering.',
+      ),
+      FeatureItem(
+        'Academic & Competitions',
+        'Segmented view with Education and Competitions tabs — degree info, honors, hackathons, coding contests, and awards.',
+      ),
+      FeatureItem(
+        'Credentials Hub',
+        'Two-tab interface for Certificates and Events — professional certs, seminars, workshops, and conferences with issuer and date info.',
+      ),
+      FeatureItem(
+        'Dynamic Theme System',
+        'Twenty built-in color palettes — Default, Ember, Orchid, Storm, Citrine, Aurora, Rose, Ocean, Verdant, Lavender, Blush, Meadow, Coral, Slate, Parchment, Crimson, Neon, Citrus, Candy, and Mono — with live switching, persistent storage, and ambient background animations that respond to the active theme.',
+      ),
+    ],
+    whyItMatters: [
+      'Demonstrates full-stack mobile and frontend expertise through a production-ready Flutter application.',
+      'Runs on six platforms — iOS, Android, Web, macOS, Linux, and Windows — from a single codebase.',
+      'Replaces static portfolios with dynamic interactions, animations, and a premium UI/UX experience.',
+      'Complete ownership of personal brand and data with no external CMS or third-party hosting dependency.',
+      'Built with zero external state management libraries — state handled entirely with ValueNotifier.',
+    ],
+    sdgs: [
+      SdgItem(
+        'SDG 4',
+        'Quality Education',
+        'Showcases academic achievements, certifications, and self-directed learning in software development.',
+      ),
+      SdgItem(
+        'SDG 9',
+        'Industry, Innovation & Infrastructure',
+        'Applies modern Flutter development to build and deploy a scalable, cross-platform digital portfolio.',
+      ),
+      SdgItem(
+        'SDG 8',
+        'Decent Work & Economic Growth',
+        'Strengthens professional visibility and career opportunities through a polished digital presence.',
+      ),
+    ],
+  ),
+  ProjectItem(
     title: 'BarterBoard',
     subtitle: 'Reviving Barter, Reinventing Exchange · Python + MySQL',
     details:

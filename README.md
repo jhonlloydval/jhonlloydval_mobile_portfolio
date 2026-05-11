@@ -125,12 +125,27 @@ Lloyd Portfolio is a Flutter application designed to present a professional iden
 - QR code for vCard / contact details (optional)
 
 ### 7. **Dynamic Theme System**
-- **5 built-in color palettes:**
+- **20 built-in color palettes:**
   - **Default:** Teal (`#00C996`)
-  - **Ember:** Amber-Red (`#F0CB35`)
+  - **Ember:** Amber-Gold (`#F0CB35`)
   - **Orchid:** Purple (`#AD5389`)
-  - **Storm:** Slate (`#BDC3C7`)
+  - **Storm:** Silver (`#BDC3C7`)
   - **Citrine:** Lime (`#F1F2B5`)
+  - **Aurora:** Cyan (`#22D3EE`)
+  - **Rose:** Pink-Red (`#FB7185`)
+  - **Ocean:** Blue (`#3B82F6`)
+  - **Verdant:** Emerald (`#10B981`)
+  - **Lavender:** Violet (`#A78BFA`)
+  - **Blush:** Warm Pink (`#EF629F`)
+  - **Meadow:** Sky Blue (`#64B3F4`)
+  - **Coral:** Peach (`#FFA17F`)
+  - **Slate:** Steel Blue (`#3A6073`)
+  - **Parchment:** Cream (`#E5E5BE`)
+  - **Crimson:** Deep Red (`#E65758`)
+  - **Neon:** Electric Green-Cyan (`#00FF87`)
+  - **Citrus:** Orange-Yellow (`#FF930F`)
+  - **Candy:** Indigo-Lilac (`#696EFF`)
+  - **Mono:** Greyscale (`#A3A3A3`)
 - **Live theme switching** via inline popover picker
 - **Persistent theme selection** saved to device
 - **Ambient background animations** that morph color in response to theme
