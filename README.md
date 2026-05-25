@@ -689,6 +689,6 @@ You are free to fork, modify, and use this as a template for your own portfolio.
 
 Built with ❤️ using Flutter.
 
-*Lloyd Interactive Portfolio — Showcasing work, one pixel at a time.*
+*Lloyd Interactive Portfolio — My whole journey in a single tap.*
 
 </div>
