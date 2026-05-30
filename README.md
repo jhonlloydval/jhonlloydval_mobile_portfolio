@@ -20,6 +20,9 @@
 
 ## Table of Contents
 
+<details>
+<summary>Click to expand</summary>
+    
 1. [Overview](#overview)
 2. [What is Lloyd Portfolio?](#what-is-lloyd-portfolio)
 3. [Core Features](#core-features)
@@ -35,6 +38,8 @@
 13. [Development](#development)
 14. [Deployment](#deployment)
 15. [Roadmap](#roadmap)
+
+</details>
 
 ---
 
