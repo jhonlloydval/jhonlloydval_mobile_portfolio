@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/Portfolio-1.png" alt="Lloyd Portfolio Logo" width="120"/>
+<img src="assets/images/Portfolio-logo.png" alt="Lloyd Portfolio Logo" width="120"/>
 
 # Lloyd Interactive Portfolio
 
