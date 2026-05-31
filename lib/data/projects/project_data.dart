@@ -415,7 +415,6 @@ const projects = <ProjectItem>[
     status: 'Completed',
     icon: Icons.web_outlined,
     imagePaths: [
-      'assets/images/web_portfolio/web_portfolio-1.png',
       'assets/images/web_portfolio/web_portfolio-2.png',
       'assets/images/web_portfolio/web_portfolio-3.png',
       'assets/images/web_portfolio/web_portfolio-4.png',
