@@ -113,7 +113,7 @@ const projects = <ProjectItem>[
       'RAG',
       'ChromaDB',
       'Prompt Engineering',
-      '2025',
+      '2026',
     ],
     status: 'Completed',
     icon: Icons.hexagon_outlined,
