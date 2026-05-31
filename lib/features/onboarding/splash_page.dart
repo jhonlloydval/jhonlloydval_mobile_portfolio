@@ -138,7 +138,7 @@ Widget buildSubtitle() {
       Text('Computer Science Portfolio', style: AppTextStyles.subtitle()),
       const SizedBox(height: 4),
       Text(
-        'BS Computer Science · MSEUF · Batangas',
+        'BS Computer Science · MSEUF · Philippines',
         style: AppTextStyles.mono(color: const Color(0x80E8F8F5), size: 10),
       ),
     ],
