@@ -11,16 +11,19 @@ const personalInfo = PersonalInfo(
 
 const positions = <PositionEntry>[
   PositionEntry(
-    role: 'Former Deputy Secretary',
-    org: "MSEUF DOST Scholars' Guild",
+    role: 'Deputy Secretary',
+    org: "MSEUF DOST Scholars' Guild ('25-'26)",
     iconName: 'description',
   ),
   PositionEntry(
-    role: 'President-Elect',
-    org: "MSEUF DOST Scholars' Guild",
+    role: 'President',
+    org: "MSEUF DOST Scholars' Guild ('25-'26)",
     iconName: 'workspace_premium',
   ),
-  PositionEntry(role: 'Member', org: 'MASTECH', iconName: 'people'),
+  PositionEntry(
+    role: 'Member', 
+    org: 'MASTECH', 
+    iconName: 'people'),
   PositionEntry(
     role: 'Delegate',
     org: 'DOST-SEI SLC, Quezon Province',

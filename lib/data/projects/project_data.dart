@@ -101,6 +101,103 @@ const projects = <ProjectItem>[
     ],
   ),
   ProjectItem(
+    title: 'Haive',
+    subtitle: 'Modular Generative AI Platform · Python + Streamlit',
+    details:
+        'A modular Generative AI tools platform built with Python and Streamlit, powered by locally hosted LLMs via Ollama. Instead of a single general-purpose chatbot, Haive organizes AI capabilities into 12 focused, task-specific assistants called Hives — each purpose-built for a specific user role or workflow. Includes a no-code Custom Tool Builder and a RAG engine for document-grounded analysis.',
+    tags: [
+      'Python',
+      'Streamlit',
+      'Ollama',
+      'LLM',
+      'RAG',
+      'ChromaDB',
+      'Prompt Engineering',
+      '2025',
+    ],
+    status: 'Completed',
+    icon: Icons.hexagon_outlined,
+    imagePaths: [
+      'assets/images/haive/HAIVE-1.png',
+      'assets/images/haive/HAIVE-2.png',
+      'assets/images/haive/HAIVE-3.png',
+      'assets/images/haive/HAIVE-4.png',
+      'assets/images/haive/HAIVE-5.png',
+      'assets/images/haive/HAIVE-6.png',
+      'assets/images/haive/HAIVE-7.png',
+      'assets/images/haive/HAIVE-8.png',
+      'assets/images/haive/HAIVE-9.png',
+      'assets/images/haive/HAIVE-10.png',
+      'assets/images/haive/HAIVE-11.png',
+      'assets/images/haive/HAIVE-12.png',
+      'assets/images/haive/HAIVE-13.png',
+      'assets/images/haive/HAIVE-14.png',
+      'assets/images/haive/HAIVE-15.png',
+      'assets/images/haive/HAIVE-16.png',
+      'assets/images/haive/HAIVE-17.png',
+      'assets/images/haive/HAIVE-18.png',
+      'assets/images/haive/HAIVE-19.png',
+      'assets/images/haive/HAIVE-20.png',
+      'assets/images/haive/HAIVE-21.png',
+      'assets/images/haive/HAIVE-22.png',
+    ],
+    longDescription: [
+      FeatureItem(
+        'HAIVE General Chat',
+        'Open-ended general assistant with model selection (phi4-mini / llama3.2). No scope constraints — handles drafting, studying, brainstorming, and open-ended problem solving.',
+      ),
+      FeatureItem(
+        'Tools Library Dashboard',
+        'Searchable, filterable card grid of all 12 built-in Hives organized by category: Professional, Academic, Education, Wellness, and Media Literacy.',
+      ),
+      FeatureItem(
+        'Specialized Hives',
+        '12 task-specific AI assistants — Interview Coach, Doc Summarizer, Doc Paraphraser, GradeWise, Forecasting, Roleplay Creator, Wellness Companion, Fact Checker, Career Roadmap, Grammar Checker, Essay Generator, and Quiz & Flashcard Generator.',
+      ),
+      FeatureItem(
+        'RAG Engine',
+        'Fact Checker Hive is backed by a local Retrieval-Augmented Generation engine built on ChromaDB and nomic-embed-text. Users load reference documents into a local vector store; retrieved chunks are injected into the system prompt to ground credibility analysis.',
+      ),
+      FeatureItem(
+        'No-Code Custom Tool Builder',
+        'Create and publish new Hives without writing code — define a name, description, target user, category, system prompt, and output format. Custom tools are saved to JSON and appear instantly in the Tools Library.',
+      ),
+      FeatureItem(
+        'Prompt Engineering System',
+        'Four-strategy approach across all Hives: role assignment, output format specification, shared scope boundary enforcement (tool_scope.txt), and tone/behavioral control — all without model fine-tuning.',
+      ),
+    ],
+    whyItMatters: [
+      '46% of Filipino workers use AI monthly, yet most rely on unfocused general chatbots — Haive bridges the gap with task-specific, guided AI workflows.',
+      'Users don\'t need to craft prompts — each Hive handles prompt complexity internally so anyone can use AI effectively.',
+      'Runs entirely on local hardware via Ollama — no cloud API required, keeping user data fully private.',
+      'Aligned with the DTI\'s National AI Strategy Roadmap (NAISR 2.0) goals for practical, accessible AI adoption in the Philippines.',
+      'The no-code Custom Tool Builder lets users extend the platform for any workflow without touching application code.',
+    ],
+    sdgs: [
+      SdgItem(
+        'SDG 4',
+        'Quality Education',
+        'Delivers AI-powered academic tools — essay generation, grammar checking, quiz creation, grade tracking — accessible to all students without technical expertise.',
+      ),
+      SdgItem(
+        'SDG 8',
+        'Decent Work & Economic Growth',
+        'Equips professionals with specialized AI assistants for interview prep, career roadmapping, and document workflows — lowering barriers to AI-driven productivity.',
+      ),
+      SdgItem(
+        'SDG 9',
+        'Industry, Innovation & Infrastructure',
+        'Demonstrates a scalable, locally hosted, modular AI architecture using open-source tooling — a practical model for accessible AI infrastructure.',
+      ),
+      SdgItem(
+        'SDG 16',
+        'Peace, Justice & Strong Institutions',
+        'The RAG-grounded Fact Checker Hive supports media literacy by helping users assess the credibility of news claims and identify misinformation.',
+      ),
+    ],
+  ),
+  ProjectItem(
     title: 'RapidRail',
     subtitle: 'Modernized NSCR Transaction Processing System · Java + MySQL',
     details:

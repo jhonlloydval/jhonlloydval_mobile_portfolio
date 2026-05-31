@@ -15,7 +15,7 @@ const skillCategories = <SkillCategory>[
   ),
   SkillCategory(
     title: 'Data & AI',
-    skills: ['NumPy', 'Pandas', 'TensorFlow', 'Power BI', 'Jupyter'],
+    skills: ['NumPy', 'Pandas', 'TensorFlow', 'Power BI', 'Jupyter', 'Matplotlib', 'Plotly', 'Streamlit'],
   ),
   SkillCategory(
     title: 'Tools & Platforms',
