@@ -463,7 +463,7 @@ const projects = <ProjectItem>[
     ],
   ),
   ProjectItem(
-    title: 'Lloyd Interactive Portfolio',
+    title: 'Jhonlloydval Interactive Portfolio',
     subtitle: 'Personal Portfolio App · Flutter + Dart',
     details:
         'A polished, multi-platform personal portfolio built with Flutter — showcasing identity, projects, skills, academic background, and credentials through a dynamic 20-palette theme system, ambient animations, a pseudo-infinite project carousel, and a floating navigation bar. Runs on iOS, Android, Web, macOS, Linux, and Windows from a single codebase.',
