@@ -108,14 +108,46 @@ const events = <EventData>[
     year: '2026',
     type: 'BOOTCAMP',
   ),
-  // ── Conferences ───────────────────────────────────────────────────────────
+  
+// ── Conferences ───────────────────────────────────────────────────────────
   EventData(
     name: 'DOST-SEI Scholars Leadership Conference – Quezon Province',
     organizer: 'DOST-SEI',
     year: '2026',
     type: 'CONFERENCE',
   ),
-  // ── Trainings ─────────────────────────────────────────────────────────────
+
+// ── Trainings ─────────────────────────────────────────────────────────────
+  EventData(
+    name: 'Scholars Leadership Camp – Region IV-A (CALABARZON)',
+    organizer: 'DOST-SEI',
+    year: '2026',
+    type: 'TRAINING',
+  ),
+  EventData(
+    name: 'Workshop on Professional Excellence',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'TRAINING',
+  ),
+  EventData(
+    name: 'Workshop on Social Responsibility',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'TRAINING',
+  ),
+  EventData(
+    name: 'Workshop on Servant Leadership',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'TRAINING',
+  ),
+  EventData(
+    name: 'Problem-Tree and Objective-Tree Analysis: Co-Diagnosing and Co-Creating Solutions to Core Community Problems',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'TRAINING',
+  ),
   EventData(
     name: 'Scholars Values Formation Orientation',
     organizer: 'DOST-SEI Region IV-A',
@@ -134,7 +166,26 @@ const events = <EventData>[
     year: '2021',
     type: 'TRAINING',
   ),
-  // ── Seminars ──────────────────────────────────────────────────────────────
+
+// ── Seminars ──────────────────────────────────────────────────────────────
+  EventData(
+    name: 'Seminar on Professional Excellence as a Core Value of DOST-SEI Scholars: AKO – Being, Becoming, and Living an Exemplary Life',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'SEMINAR',
+  ),
+  EventData(
+    name: 'Seminar on Social Responsibility: Youth Participation, Citizenship, and Democracy',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'SEMINAR',
+  ),
+  EventData(
+    name: 'Seminar on Historical Servant Leadership and Alumni Testimonials',
+    organizer: 'DOST-SEI Region IV-A',
+    year: '2026',
+    type: 'SEMINAR',
+  ),
   EventData(
     name: 'Career Development Program: Building Essential Skills Towards Career Success',
     organizer: 'MSEUF Office of Student Affairs & Services',
